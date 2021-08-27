@@ -4,11 +4,11 @@ My solutions to Quizzes and Programming Assignments of [the specialization](http
 
 Please **Star** or **Fork** if it helps. Thanks.
 
-+ **[Course 1: Sequence Models](https://www.coursera.org/learn/neural-networks-deep-learning)**
-+ **[Course 2: Sequence Models](https://www.coursera.org/learn/deep-neural-network)**
-+ **[Course 3: Sequence Models](https://www.coursera.org/learn/machine-learning-projects)**
-+ **[Course 4: Sequence Models](https://www.coursera.org/learn/convolutional-neural-networks)**
-+ **[Course 5: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)**
++ **[1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)**
++ **[2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)**
++ **[3rd course: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)**
++ **[4th course: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)**
++ **[5th course: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)**
   + Week 1
     + [Programming Assignment: Building your Recurrent Neural Network - Step by Step]()
     + [Programming Assignment: Dinosaur Island-Character-Level Language Modeling]()
