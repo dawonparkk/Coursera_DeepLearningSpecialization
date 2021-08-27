@@ -1,8 +1,9 @@
 # Coursera Deep Learning Specialization
 
-My solutions to Quizzes and Programming Assignments of [the specialization](https://www.coursera.org/specializations/deep-learning).
+<img width="570" alt="스크린샷 2021-08-27 오후 6 19 39" src="https://user-images.githubusercontent.com/60343930/131104514-5c6901ff-77e2-4f0d-8ec3-df49c7ce92e6.png">
 
-Please **Star** or **Fork** if it helps. Thanks.
+코세라 수강 -> [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+
 
 + **[1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)**
 + **[2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)**
